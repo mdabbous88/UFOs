@@ -3,7 +3,7 @@
 This project is designed to use java script to present a data file that contains UFO sightings in a HTML page. The user can also use some filters in the webpage to help narrow down search results. Bootstrap is used to give customize and give design to the webpage.
 
 ## Results
-The webpage is user friendly and interactive. The user can use filters to narrow down search results. Multiple filters can be applied to the results such as date, city, state, country and shape. The user can enter the search criteria in the relative input box, place holders are displayed to help the user with the format of the input supposed to be entered. When the desired search criteria is entered, the user presses enter, and the page instantly filters the results according to the search criteria(link to the webpage). Multiple filter criteria can be entered at once.
+The webpage is user friendly and interactive. The user can use filters to narrow down search results. Multiple filters can be applied to the results such as date, city, state, country and shape. The user can enter the search criteria in the relative input box, place holders are displayed to help the user with the format of the input supposed to be entered. When the desired search criteria is entered, the user presses enter, and the page instantly filters the results according to the search criteria. Multiple filter criteria can be entered at once.(link for "How to apply filters to the HTML page.png":https://github.com/mdabbous88/UFOs/blob/main/How%20to%20apply%20filters%20to%20the%20HTML%20page.png).
 
 ## Summary
 ### Drawbacks
